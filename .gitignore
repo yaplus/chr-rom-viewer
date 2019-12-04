@@ -1,0 +1,8 @@
+# 不可視ファイル
+.DS_Store
+*~
+
+# ビルド系
+chr-rom-viewer
+build
+*.nes
